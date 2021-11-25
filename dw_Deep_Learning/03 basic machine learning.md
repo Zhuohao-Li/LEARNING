@@ -6,6 +6,8 @@
    1. 有监督、线性回归、SVM、决策树、RF
    2. 无监督、聚类、降维（PCA）
 
+[reference](https://datawhalechina.github.io/unusual-deep-learning/)
+
 # machine learning
 
 ### concept
